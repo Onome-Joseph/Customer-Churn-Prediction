@@ -10,7 +10,7 @@ This project predicts whether a customer is likely to stop patronizing a busines
 5. **Increased Revenue**: Prevents revenue loss by reducing churn.  
 6. **Improved Customer Relationships**: Enables businesses to personalize interventions for better engagement.   
 
-# Customer Churn Prediction App
+# Customer Churn App
 This is a **Streamlit web application** that predicts whether a customer is likely to churn based on various input features such as credit score, geography, age, and more. The app uses a pre-trained machine learning model.
 
 ## Features
