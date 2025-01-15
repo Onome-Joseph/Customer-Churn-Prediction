@@ -47,13 +47,6 @@ Ensure you have the following installed:
    http://localhost:8501
    ```
 ---
-## File Descriptions
-- **`Customer Churn Model`**: Jupyter Notebook containing the trained model 
-- **`app.py`**: The main Streamlit application script.
-- **`scaler2.pkl`**: Pre-trained scaler used for normalizing input data.
-- **`XGB_model.pkl`**: Pre-trained XGBoost model for churn prediction.
-- **`requirements.txt`**: Lists the dependencies required to run the application.
----
 
 ## Contributions  
 Contributions are welcome! Feel free to fork the repository or report issues.  
