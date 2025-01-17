@@ -3,8 +3,8 @@ import numpy as np
 import pickle
 
 # Load the model
-scaler = pickle.load(open('streamlit/scaler2.pkl', 'rb'))
-model = pickle.load(open('streamlit/XGB_model.pkl', 'rb'))
+scaler = pickle.load(open('scaler2.pkl', 'rb'))
+model = pickle.load(open('XGB_model.pkl', 'rb'))
 
 # App title and description
 st.title('Customer Churn Prediction')
