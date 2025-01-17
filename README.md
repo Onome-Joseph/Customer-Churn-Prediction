@@ -29,7 +29,6 @@ Ensure you have the following installed:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/Onome-Joseph/Customer-Churn-Prediction.git
-   cd Customer-Churn-Prediction
    ```
 3. **Install dependencies**:
    ```bash
