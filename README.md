@@ -1,7 +1,7 @@
 # Customer Churn Prediction Model  
 This project predicts whether a customer is likely to stop patronizing a business. Using historical customer data, the model analyzes patterns and behaviors to provide accurate predictions, enabling businesses to take proactive measures to retain customers.
 ---
-![Screenshot of the Customer Churn Prediction Model](App-preview.png)
+![Screenshot of the Customer Churn Prediction Model](https://github.com/Onome-Joseph/Customer-Churn-Prediction/blob/main/App%20preview.png)
 
 ## Applications    
 1. **Telecommunications**: Predicts customer churn based on usage patterns and complaints.  
