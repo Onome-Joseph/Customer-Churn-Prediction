@@ -3,8 +3,8 @@ import numpy as np
 import pickle
 
 # Load the model
-scaler = pickle.load(open('./scaler2.pkl', 'rb'))    #path to directory
-model = pickle.load(open('./XGB_model.pkl', 'rb'))   #path to dorectory
+scaler = pickle.load(open('scaler2.pkl', 'rb'))    #path to directory
+model = pickle.load(open('XGB_model.pkl', 'rb'))   #path to dorectory
 
 # App title and description
 st.title('Customer Churn Prediction')
