@@ -4,4 +4,3 @@ numpy
 xgboost
 tensorflow
 streamlit
-pickle
